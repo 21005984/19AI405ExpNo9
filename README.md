@@ -1,6 +1,6 @@
 ## ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 ## Name: Meiyarasi V
-## Register Number/Staff Id: 212221230058
+## Register Number: 212221230058
 ### Aim:
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 ### Problem Description
